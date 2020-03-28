@@ -9,11 +9,6 @@ import static com.codeborne.selenide.Selenide.$;
 
 public class LoginPage {
 
-
-    /**
-     * объявляем необходимиые для работы со страницей переменные и константы
-     */
-
     private final static String URL = "https://idemo.bspb.ru";
     private final static String LOGIN = "demo";
     private final static String PASSWORD = "demo";
